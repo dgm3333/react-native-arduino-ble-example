@@ -155,7 +155,7 @@ void loop(void)
     Serial.println(F("Error when sending counter"));
    }
 
-  // the green LED blinks to informe the user the counter inscreased
+  // the green LED blinks to inform the user the counter inscreased
    digitalWrite(pinG, 0);
    delay(500);
    digitalWrite(pinG, 255);

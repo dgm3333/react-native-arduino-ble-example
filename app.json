@@ -1,3 +1,11 @@
+// app.json is used for configuring parts of your app that don't belong in code.
+// but for the current app the name could be inlined in the index.js file and app.json deleted...
+// (ie you can basically just ignore this file)
+//
+// index.js is the entry point for the app.
+// However thus just
+
+
 {
   "name": "BLEProject",
   "displayName": "BLEProject"
